@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickZgr99
-- 👀 I’m interested in Mathematics and Computer Science.
-- 🌱 I’m currently studying Artificial Intelligence, Machine Learning and Smart Contracts.
+- 👀 I’m interested in Data Science and Mathematics.
+- 🌱 I’m currently studying Artificial Intelligence, Machine Learning and Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
