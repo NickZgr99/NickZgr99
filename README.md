@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NickZgr99
-- 👀 I’m interested in Data Science and Mathematics.
-- 🌱 I’m currently studying Artificial Intelligence, Machine Learning and Natural Language Processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI, Data Science, Software Development and Mathematics.
+- 🌱 I’m currently studying Artificial Intelligence.
+- 📫 LinkedIn Profile: https://www.linkedin.com/in/nicolaos-zografos-3b3329246/
 
 <!---
 NickZgr99/NickZgr99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
