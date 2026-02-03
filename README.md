@@ -1,40 +1,36 @@
-# 👋 Hello, I'm Nikolaos Zografos
+# 👋 Hi, I'm Nikolaos Zografos
 
-### 🚀 Software Developer & Data Scientist | AI Architect
-[cite_start]I am a results-driven developer specializing in **Agentic AI**, **Large Language Models (LLMs)**, and **Scalable Data Pipelines**[cite: 2, 7]. [cite_start]I bridge the gap between advanced mathematics and production-grade software to solve complex problems in high-compliance industries like Life Sciences and CRO[cite: 6, 8].
+### Software Developer & Data Scientist | AI Architect
+I am a results-driven developer specializing in **Agentic AI**, **Large Language Models (LLMs)**, and **Scalable Data Pipelines**. I bridge the gap between advanced mathematics and production-grade software to solve complex problems in high-compliance industries.
 
 ---
 
 ### 🛠️ Core Expertise
-* [cite_start]**Agentic AI Systems:** Designing MCP-assisted workflows, modular AI pipelines, and autonomous agents[cite: 12, 18].
-* [cite_start]**System Architecture:** High-performance asynchronous refactoring and distributed processing[cite: 12, 41].
-* [cite_start]**Machine Learning & NLP:** End-to-end model development, validation, and optimization[cite: 15, 41].
-* [cite_start]**Backend Engineering:** Building robust APIs using FastAPI and managing scalable SQL/Vector databases[cite: 23, 27, 41].
+* **Agentic AI Systems:** Designing MCP-assisted workflows, modular AI pipelines, and autonomous agents.
+* **System Architecture:** High-performance asynchronous refactoring and distributed processing.
+* **Machine Learning & NLP:** End-to-end model development, validation, and optimization.
+* **Backend Engineering:** Building robust APIs using FastAPI and managing scalable SQL/Vector databases.
 
 ### 📈 Professional Impact
-* [cite_start]**Revenue Generation:** Designed and delivered an MCP-assisted agentic workflow that drove significant company revenue through production-grade automation[cite: 41].
-* [cite_start]**Process Optimization:** Reduced core tool execution time by 70% through full asynchronous refactoring and pipeline restructuring[cite: 41].
-* [cite_start]**System Accuracy:** Increased core system accuracy from 55% to 95% by identifying critical defects and refactoring processing pipelines[cite: 41].
-* [cite_start]**Product Strategy:** Built proprietary Validation and QA tools that became primary adoption drivers for enterprise-level automation platforms[cite: 41].
-* [cite_start]**Technical Leadership:** Led and coordinated teams of developers, managing task allocation and progress reporting for global client initiatives[cite: 41].
+* **Process Optimization:** Reduced core tool execution time by 70% through full asynchronous refactoring and pipeline restructuring.
+* **System Accuracy:** Increased core system accuracy from 55% to 90%+ by identifying critical defects and refactoring processing pipelines.
+* **Product Strategy:** Built proprietary Validation and QA tools that became primary adoption drivers for enterprise-level automation platforms.
+* **Technical Leadership:** Led and coordinated teams of developers, managing task allocation and progress reporting for global client initiatives.
 
 ### 💻 Tech Stack
-- [cite_start]**Languages:** Python, C++, SQL[cite: 21, 23].
-- [cite_start]**AI/ML Tools:** Model Context Protocol (MCP), RAG, TensorFlow, PyTorch[cite: 19, 27].
-- [cite_start]**Backend/Web:** FastAPI, Postman, REST APIs[cite: 27, 41].
-- [cite_start]**Infrastructure:** Linux/Ubuntu, CI/CD, Azure, and Google Cloud Platform[cite: 25].
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🎓 Education
-* [cite_start]**Master of Business Administration (MBA):** International Hellenic University (In Progress)[cite: 31, 32].
-* [cite_start]**MSc in Artificial Intelligence:** European University of Cyprus[cite: 33, 34].
-* [cite_start]**BSc in Mathematics:** Aristotle University of Thessaloniki[cite: 35, 36].
+* **Master of Business Administration (MBA):** International Hellenic University (In Progress)
+* **MSc in Artificial Intelligence:** European University of Cyprus
+* **BSc in Mathematics:** Aristotle University of Thessaloniki
 
 ---
 
 ### 📫 Connect with Me
-- [cite_start]**LinkedIn:** [My Profile](https://www.linkedin.com/in/nicolaos-zografos-3b3329246/) [cite: 5]
-- [cite_start]**Email:** nikoszo96@gmail.com [cite: 4]
-- [cite_start]**Location:** Thessaloniki/Florina, Greece [cite: 3]
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/nicolaos-zografos-3b3329246/)
+- **Email:** nikoszo96@gmail.com
+- **Location:** Thessaloniki/Florina, Greece
 
 ---
 *"Bridging data science and software engineering to deliver impactful automation."*
